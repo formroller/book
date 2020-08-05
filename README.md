@@ -92,3 +92,6 @@
   7) 행렬 분해를 이용한 잠재요인 협업 필터링 실습
   8) 파이썬 추천 시스템 패키지 = Surprise
   9) 정리
+
+# GUIDE
+https://github.com/wikibook/ml-definitive-guide
